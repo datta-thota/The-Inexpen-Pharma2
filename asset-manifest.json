@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/datta-thota/The-Inexpen-Pharma2.git/static/css/main.e6c13ad2.css",
-    "main.js": "/datta-thota/The-Inexpen-Pharma2.git/static/js/main.5608923b.js",
-    "static/media/backg.jpg": "/datta-thota/The-Inexpen-Pharma2.git/static/media/backg.3a14ab3b95ffe84d7e67.jpg",
-    "static/media/logo.png": "/datta-thota/The-Inexpen-Pharma2.git/static/media/logo.c7dc4494107c4796b014.png",
-    "static/media/medical-background-light.jpg": "/datta-thota/The-Inexpen-Pharma2.git/static/media/medical-background-light.d5cd075eb64923b3ed40.jpg",
-    "static/media/medical-background.jpg": "/datta-thota/The-Inexpen-Pharma2.git/static/media/medical-background.fcfd64dd581f0c3a1628.jpg",
-    "index.html": "/datta-thota/The-Inexpen-Pharma2.git/index.html",
-    "main.e6c13ad2.css.map": "/datta-thota/The-Inexpen-Pharma2.git/static/css/main.e6c13ad2.css.map",
-    "main.5608923b.js.map": "/datta-thota/The-Inexpen-Pharma2.git/static/js/main.5608923b.js.map"
+    "main.css": "/datta-thota/The-Inexpen-Pharma2/static/css/main.e6c13ad2.css",
+    "main.js": "/datta-thota/The-Inexpen-Pharma2/static/js/main.1729d407.js",
+    "static/media/backg.jpg": "/datta-thota/The-Inexpen-Pharma2/static/media/backg.3a14ab3b95ffe84d7e67.jpg",
+    "static/media/logo.png": "/datta-thota/The-Inexpen-Pharma2/static/media/logo.c7dc4494107c4796b014.png",
+    "static/media/medical-background-light.jpg": "/datta-thota/The-Inexpen-Pharma2/static/media/medical-background-light.d5cd075eb64923b3ed40.jpg",
+    "static/media/medical-background.jpg": "/datta-thota/The-Inexpen-Pharma2/static/media/medical-background.fcfd64dd581f0c3a1628.jpg",
+    "index.html": "/datta-thota/The-Inexpen-Pharma2/index.html",
+    "main.e6c13ad2.css.map": "/datta-thota/The-Inexpen-Pharma2/static/css/main.e6c13ad2.css.map",
+    "main.1729d407.js.map": "/datta-thota/The-Inexpen-Pharma2/static/js/main.1729d407.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5608923b.js"
+    "static/js/main.1729d407.js"
   ]
 }
